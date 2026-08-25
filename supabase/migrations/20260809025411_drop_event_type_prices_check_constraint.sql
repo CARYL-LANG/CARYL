@@ -1,0 +1,1 @@
+ALTER TABLE event_type_prices DROP CONSTRAINT IF EXISTS event_type_prices_event_type_check;
